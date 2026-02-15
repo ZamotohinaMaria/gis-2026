@@ -1,0 +1,6 @@
+Было совершено 2 пакета правок
+Основной:
+https://www.openstreetmap.org/changeset/178576443#map=16/53.24666/50.52898&layers=Y
+
+Дополнительный
+https://www.openstreetmap.org/changeset/178576558#map=17/53.246545/50.528787&layers=Y
