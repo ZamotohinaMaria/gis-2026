@@ -5,7 +5,7 @@ services:
     environment:
       POSTGRES_DB: gis
       POSTGRES_USER: gisuser
-      POSTGRES_PASSWORD: 12345678
+      POSTGRES_PASSWORD: gispass
     volumes:
       - ./init-db:/docker-entrypoint-initdb.d
     ports:
