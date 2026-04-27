@@ -8,5 +8,17 @@ Lab2/geoserver_data/gwc/geowebcache_2026-03-17T133855.bak
 Lab2/geoserver_data/logs
 Lab2/geoserver_data/security
 Lab2/geoserver_data/tomcat_pass.txt
+
+/Lab3/commands.txt
+/Lab3/client/node_modules
+/Lab3/GeoJSON_lab1.json
+Lab3/client/dist
+Lab3/geoserver_data/gwc/diskquota_page_store_hsql/diskquota.lck
+Lab3/geoserver_data/gwc/diskquota_page_store_hsql/diskquota.log
+Lab3/geoserver_data/gwc/geowebcache_2026-03-17T133855.bak
+Lab3/geoserver_data/logs
+Lab3/geoserver_data/security
+Lab3/geoserver_data/tomcat_pass.txt
+
 GEO
 DuckDB
